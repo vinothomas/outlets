@@ -1,27 +1,26 @@
-[
-  {
-    "id": 3,
-    "name": "Politics",
-    "icon": "account-balance"
-  },
-  {
-    "id": 5,
-    "name": "Business",
-    "icon": "business-center"
-  },
-  {
-    "id": 2,
-    "name": "Technology",
-    "icon": "devices-other"
-  },
-  {
-    "id": 1,
-    "name": "Sports",
-    "icon": "language"
-  },
-  {
-    "id": 4,
-    "name": "World",
-    "icon": "public"
-  }
+[{
+		"id": 3,
+		"name": "Politics",
+		"icon": "account-balance"
+	},
+	{
+		"id": 5,
+		"name": "Business",
+		"icon": "business-center"
+	},
+	{
+		"id": 2,
+		"name": "Technology",
+		"icon": "devices-other"
+	},
+	{
+		"id": 1,
+		"name": "Sports",
+		"icon": "language"
+	},
+	{
+		"id": 4,
+		"name": "World",
+		"icon": "public"
+	}
 ]
