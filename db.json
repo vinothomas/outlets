@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3,
+    "name": "Politics",
+    "icon": "account-balance"
+  },
+  {
+    "id": 5,
+    "name": "Business",
+    "icon": "business-center"
+  },
+  {
+    "id": 2,
+    "name": "Technology",
+    "icon": "devices-other"
+  },
+  {
+    "id": 1,
+    "name": "Sports",
+    "icon": "language"
+  },
+  {
+    "id": 4,
+    "name": "World",
+    "icon": "public"
+  },
+  {
+    "id": 7,
+    "name": "Science",
+    "icon": "local-florist"
+  },
+  {
+    "id": 6,
+    "name": "Entertainment",
+    "icon": "local-movies"
+  },
+  {
+    "id": 8,
+    "name": "General",
+    "icon": "subtitles"
+  },
+  {
+    "id": 9,
+    "name": "Travel",
+    "icon": "Travel"
+  },
+  {
+    "id": 10,
+    "name": "Weather",
+    "icon": "Weather"
+  },
+  {
+    "id": 11,
+    "name": "Health",
+    "icon": "Health"
+  },
+  {
+    "id": 12,
+    "name": "Lifestyle",
+    "icon": "Lifestyle"
+  }
+]
