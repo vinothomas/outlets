@@ -17,10 +17,5 @@
 		"id": 1,
 		"name": "Sports",
 		"icon": "language"
-	},
-	{
-		"id": 4,
-		"name": "World",
-		"icon": "public"
 	}
 ]
