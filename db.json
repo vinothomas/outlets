@@ -23,40 +23,5 @@
     "id": 4,
     "name": "World",
     "icon": "public"
-  },
-  {
-    "id": 7,
-    "name": "Science",
-    "icon": "local-florist"
-  },
-  {
-    "id": 6,
-    "name": "Entertainment",
-    "icon": "local-movies"
-  },
-  {
-    "id": 8,
-    "name": "General",
-    "icon": "subtitles"
-  },
-  {
-    "id": 9,
-    "name": "Travel",
-    "icon": "Travel"
-  },
-  {
-    "id": 10,
-    "name": "Weather",
-    "icon": "Weather"
-  },
-  {
-    "id": 11,
-    "name": "Health",
-    "icon": "Health"
-  },
-  {
-    "id": 12,
-    "name": "Lifestyle",
-    "icon": "Lifestyle"
   }
 ]
